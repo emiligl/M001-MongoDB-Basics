@@ -7,6 +7,6 @@ MongoDB is a free and open-source cross-platform document-oriented database prog
 
 
 
-Verify MongoDB Certification at [MongoDB University](http://university.mongodb.com/course_completion/78bfef57-22cb-409c-84f9-f6e77957)
+Verify MongoDB Certification at [MongoDB University](https://university.mongodb.com/course_completion/306f6314-0692-4baa-90b9-e9aa01ac)
 ![Imgur](https://i.imgur.com/aI9eTaA.png)
 
